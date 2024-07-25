@@ -110,7 +110,7 @@ body{
 /*homepage*/
 
 #hero {
-    background-image: url("depression.png");
+    background-image: url(depression.png);
     height: 70vh;
     width: 100%;
     background-position: top 30% right 100%;
